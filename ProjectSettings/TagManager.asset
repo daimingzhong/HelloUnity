@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Primitive
+  - Cube
+  - Sphere
+  - Capsule
+  - Cylinder
+  - Plane
+  - Quad
   layers:
   - Default
   - TransparentFX

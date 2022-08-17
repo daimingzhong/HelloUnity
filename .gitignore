@@ -58,7 +58,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
+#*.unitypackage
 *.app
 
 # Crashlytics generated file
@@ -75,3 +75,7 @@ crashlytics-build.properties
 .idea/
 .vsconfig
 .gitattributes
+Assets/
+Assets/Scenes
+
+ProjectSettings/TagManager.asset
